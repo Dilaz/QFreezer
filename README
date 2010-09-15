@@ -1,0 +1,9 @@
+QFreezer
+========
+
+QFreezer is free, open source program to add CPU load.
+
+Compiling
+---------
+
+To compile QFreezer, run `qmake` to create Makefile and then build with `make`
